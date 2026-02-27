@@ -39,9 +39,8 @@ This lifecycle ensures clarity and prevents repository sprawl.
 
 ## Current Projects
 
-(Replace with actual links once structured)
 
-* **Match Bot** — Machine learning prediction system for football analytics
+* **[https://github.com/pluggedspace/match]Match Bot** — Machine learning prediction system for football analytics
 * **Job Autobot** — Automated job intelligence assistant
 * **BorderCash** — Stellar-based multi-currency transaction system
 * **Vote** — Blockchain-based governance infrastructure
